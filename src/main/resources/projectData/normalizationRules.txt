@@ -1,0 +1,157 @@
+&	 and 
+-	 
+a.b	ab
+air line	airlines
+air lines	airlines
+airline	airlines
+aktiebolag	ab
+aktiengesellschaft	ag
+americas	america
+archives	archive
+asa	as
+a/s	as
+asoc	assoc
+assc	assurance
+associ	assoc
+associated	assoc
+association	assoc
+auth	authority
+b.v.b.a	bvba
+banc	bank
+banco	bank
+bancorporation	bancorp
+banking	bank
+bhd	berhad
+bionaire	bionair
+bk	bank
+bros	brothers
+cap	capital
+chemical	chemicals
+chrtrd	chartered
+close joint stock company	zao
+co	company
+co.	company
+com	company
+communication	communications
+companya	company
+computer	computers
+consultants	consulting
+cooperation	corp
+cooperativo	cooperativa
+corporation	corp
+de c.v	de cv
+de r l	de rl
+dev	development
+dominicana	dominican
+energi	energy
+enterprise	enterprises
+eq	equity
+exp	exploration
+fincl	financial
+foundations	foundation
+gass	gas
+gesellschaft mit beschrankter haftung	gmbh
+gesellschaft mit beschränkter haftung	gmbh
+ggmbh	gmbh
+gro	group
+grou	group
+grp	group
+grth	growth
+gruppe	group
+hf	llc
+hldng	holdings
+hldngs	holdings
+hlutafelag	llc
+holding	holdings
+inc trust	income trust
+incorporated	inc
+inds	industries
+industry	industries
+intercontinential	intercontinental
+intl	international
+inv	investments
+investment	investments
+joint stock company	jsc
+kazmunaigas	kazmunaygas
+kazmunaigaz	kazmunaygas
+kazmunaygaz	kazmunaygas
+kosoves	kosovo
+l.l.c	llc
+labs	laboratories
+lab	laboratories
+laboratory	laboratories
+limitada	ltda
+limited	ltd
+limited liability company	llc
+limited liability partnership	llp
+limited partnership	lp
+limitee	ltd
+l.p	lp
+mbh	gmbh
+metal	metals
+mfg	manufacturing
+mgmt	management
+microsystem	microsystems
+motor	motors
+mozambique	mocambique
+n.v	nv
+natl	national
+oao	ojsc
+open joint stock company	ojsc
+ord	ordinary
+p.c.l	pcl
+partner	partners
+pharma	pharmaceuticals
+pharmaceutical	pharmaceuticals
+pharmacuticals	pharmaceuticals
+pln	plan
+portuguesa	portuguese
+private	pvt
+proprietary	pty
+pry	pty
+ptners	partners
+ptnrs	partners
+ptnrshp	partnership
+publ	public
+public company limited	pcl
+public joint stock company	pjsc
+public limited company	plc
+pwr	power
+respublika	respublikos
+s a de c v	sa de cv
+s de r l	s de rl
+s de r l de c v	s de rl de cv
+s. de r.l	s de rl
+s. de r.l. de c.v	s de rl de cv
+s.a	sa
+s.a. de c.v	sa de cv
+s.a.r.l	srl
+s.p.a	spa
+s.r.l	srl
+s/a	sa
+sarl	srl
+sci	sciences
+sdn. bhd	sdn bhd
+sec	securities
+secu	securities
+securitization	securitisation
+sendirian berhad	sdn bhd
+serv	services
+service	services
+sicilia	siciliana
+smes	sme
+societa per azioni	spa
+sotware	software
+srbija	serbia
+store	stores
+surgutneftegaz	surgutneftegas
+svcs	services
+system	systems
+tech	technologies
+technology	technologies
+telekom	telecom
+the	 
+tr	trust
+trusts	trust
+tst	trust
+ukrtransgas	ukrtransgaz
